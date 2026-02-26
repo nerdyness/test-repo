@@ -1,3 +1,4 @@
+
 .PHONY: git-deploy
 git-deploy: ## Deploy dev -> test -> main branches
 	@echo "Pulling latest changes..."
